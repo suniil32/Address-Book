@@ -1,0 +1,13 @@
+John Doe,1234567890,john@example.com
+
+Alice Smith,0987654321,alice@example.com
+
+Bob Johnson,1112223333,bob@company.com
+
+arun,4715264857,arun@gmail.com
+
+hello,4875962548,hi@gmail.com
+
+sunil kumar,7985670947,sunil@gmail.com
+
+sunil,7458965471,slk@gmail.com
